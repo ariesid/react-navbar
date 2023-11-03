@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ariesid/react-navbar/static/css/main.073c9b0a.css",
-    "main.js": "/ariesid/react-navbar/static/js/main.fbada00f.js",
-    "static/js/787.c1772abb.chunk.js": "/ariesid/react-navbar/static/js/787.c1772abb.chunk.js",
-    "static/media/logo.svg": "/ariesid/react-navbar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/ariesid/react-navbar/index.html",
-    "main.073c9b0a.css.map": "/ariesid/react-navbar/static/css/main.073c9b0a.css.map",
-    "main.fbada00f.js.map": "/ariesid/react-navbar/static/js/main.fbada00f.js.map",
-    "787.c1772abb.chunk.js.map": "/ariesid/react-navbar/static/js/787.c1772abb.chunk.js.map"
+    "main.css": "/react-navbar/static/css/main.073c9b0a.css",
+    "main.js": "/react-navbar/static/js/main.21c7ae5f.js",
+    "static/js/787.c1772abb.chunk.js": "/react-navbar/static/js/787.c1772abb.chunk.js",
+    "static/media/logo.svg": "/react-navbar/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-navbar/index.html",
+    "main.073c9b0a.css.map": "/react-navbar/static/css/main.073c9b0a.css.map",
+    "main.21c7ae5f.js.map": "/react-navbar/static/js/main.21c7ae5f.js.map",
+    "787.c1772abb.chunk.js.map": "/react-navbar/static/js/787.c1772abb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.fbada00f.js"
+    "static/js/main.21c7ae5f.js"
   ]
 }
